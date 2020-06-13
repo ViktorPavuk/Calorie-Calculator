@@ -1,0 +1,8 @@
+C:\Users\Toundra\Desktop\Work\Projects\Calorie Calculator\Calorie CalculatorCS\bin\Debug\Calorie CalculatorCS.exe.config
+C:\Users\Toundra\Desktop\Work\Projects\Calorie Calculator\Calorie CalculatorCS\bin\Debug\Calorie CalculatorCS.exe
+C:\Users\Toundra\Desktop\Work\Projects\Calorie Calculator\Calorie CalculatorCS\bin\Debug\Calorie CalculatorCS.pdb
+C:\Users\Toundra\Desktop\Work\Projects\Calorie Calculator\Calorie CalculatorCS\obj\Debug\Calorie_CalculatorCS.CaloriesCalculator.resources
+C:\Users\Toundra\Desktop\Work\Projects\Calorie Calculator\Calorie CalculatorCS\obj\Debug\Calorie_CalculatorCS.Properties.Resources.resources
+C:\Users\Toundra\Desktop\Work\Projects\Calorie Calculator\Calorie CalculatorCS\obj\Debug\Calorie CalculatorCS.csproj.GenerateResource.cache
+C:\Users\Toundra\Desktop\Work\Projects\Calorie Calculator\Calorie CalculatorCS\obj\Debug\Calorie CalculatorCS.exe
+C:\Users\Toundra\Desktop\Work\Projects\Calorie Calculator\Calorie CalculatorCS\obj\Debug\Calorie CalculatorCS.pdb
